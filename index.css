@@ -1,0 +1,48 @@
+body {
+  background-color: lightsteelblue;
+  width: fit-content;
+}
+.mar {
+  margin-top: 20px;
+}
+.box {
+  top: 50px;
+  left: 20pc;
+  position: relative;
+}
+.P {
+  top: 42pc;
+  left: 92pc;
+  position: relative;
+  height: 3pc;
+  width: 3pc;
+  position: fixed;
+  display: block;
+}
+.X {
+  height: 2pc;
+  width: 1.5pc;
+  position: relative;
+}
+#clear {
+  left: 4pc;
+  position: relative;
+}
+.J {
+  right: 38pc;
+  position: relative;
+}
+.I {
+  left: 15pc;
+  position: relative;
+}
+.L {
+  right: 90pc;
+  position: relative;
+}
+.list {
+  width: 50pc;
+}
+.navigation {
+  width: 190%;
+}
